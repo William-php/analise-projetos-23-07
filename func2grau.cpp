@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+/*test*/
 float delta(float a, float b, float c) {
 	float d;
 	if (!a || !c) return pow( (b * b), 0.5 );
